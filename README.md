@@ -1,5 +1,5 @@
 # Nifty-50-Portfolio-Construction.
-This is a Capstone project _[CONSTRUCTING AN  OPTIMAL PORTFOLIO USING SHARPE'S SINGLE INDEX MODEL  WITH SPECIAL REFERENCED TO NIFTY -50]_ which I did in my final year of collage (MS EXCEL).
+This is a Capstone project _[CONSTRUCTING AN  OPTIMAL PORTFOLIO USING SHARPE'S SINGLE INDEX MODEL  WITH SPECIAL REFERENCED TO NIFTY -50](https://github.com/sreevignesh05/Nifty-50-Portfolio-Construction./blob/main/CAPSTONE%20PROJECT%20-%20construction%20of%20an%20optimal%20portfolio.pdf)_ which I did in my final year of collage (MS EXCEL).
 
 # Portfolio Construction :
 

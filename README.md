@@ -13,7 +13,7 @@ This is a Capstone project "CONSTRUCTING AN  OPTIMAL PORTFOLIO USING SHARPE'S SI
 
     **4.** With systematic and unsystematic risks find the _[Total risk.](https://github.com/sreevignesh05/Nifty-50-Portfolio-Construction./blob/main/Total%20risk.pdf)_
 
-    **5.** With Mean return and Xi find the _[Total Portfolio return.](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+    **5.** With Mean return and Xi find the _[Total Portfolio return.](https://github.com/sreevignesh05/Nifty-50-Portfolio-Construction./blob/main/Portfolio%20return.pdf)_
 
 - **Purpose of portfolio construction:**
 

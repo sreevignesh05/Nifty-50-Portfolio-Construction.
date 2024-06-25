@@ -9,7 +9,7 @@ This is a Capstone project "CONSTRUCTING AN  OPTIMAL PORTFOLIO USING SHARPE'S SI
 
     **2.** Using the ranking report, find the _[Cutoff rate.](https://github.com/sreevignesh05/Nifty-50-Portfolio-Construction./blob/main/Cutoff%20rate.pdf)_
   
-    **3.** To find _[Xi-proportion of each stock.](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ using Beta and Cutoff rate.
+    **3.** To find _[Xi-proportion of each stock.](https://github.com/sreevignesh05/Nifty-50-Portfolio-Construction./blob/main/Proportion%20of%20each%20stock.pdf)_ using Beta and Cutoff rate.
 
     **4.** With systematic and unsystematic risks find the _[Total risk.](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
 

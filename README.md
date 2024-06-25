@@ -15,7 +15,7 @@ This is a Capstone project "CONSTRUCTING AN  OPTIMAL PORTFOLIO USING SHARPE'S SI
 
     **5.** With Mean return and Xi find the _[Total Portfolio return.](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
 
-- **Purpose of sales analytics:**
+- **Purpose of portfolio construction:**
 
 1. To highlight the Theoretical Background of Sharpe’s Single Index Model.
 2. To analyze the Risk and Returns of NSE Nifty 50 Securities.
@@ -31,7 +31,8 @@ Index Model.
 stocks.
 8. Identify the risk and return of the portfolio hence built.
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+- **Importance of Portfolio:**
+“Stock market is an ocean, where dealing in stock market is just sailing in a ship without a compass”. Investing one’s hard earned money is indeed an onerous task as one has to make a prudent decision by taking several factors into account. There may be a wide variety of investment avenues available in today’s investment world but the reliability of each one of them is quite uncertain. This 10uncertainty is termed risk in finance parlance. All investors invest in multiple securities, rather than one security, there must be some benefits in investing in a portfolio of securities that is risk in the portfolio securities are diversified. The investment in several securities reduced the risk of the investment. The appropriate selection of securities can assure good return to investors and can also help to reduce the losses. Many studies have been conducted to construct portfolio and analyze its performance in the stock markets world wide including India. Especially they have conducted in BSE 100 index and NSE Nifty and Nifty junior indices. There was very few study undertaken to construct portfolio for NSE Nifty 50 companies sector wise. Thus, the present study is an attempt to analyze the risk and return of the companies sector wise listed in NSE Nifty 50 index for constructing an optimum portfolio and evaluate the performance of the sectors to offer investment option to investors.
 
 - **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
